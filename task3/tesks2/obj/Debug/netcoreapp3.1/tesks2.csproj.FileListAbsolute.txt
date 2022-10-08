@@ -1,0 +1,14 @@
+C:\Users\kamil\source\repos\tesks2\tesks2\bin\Debug\netcoreapp3.1\tesks2.exe
+C:\Users\kamil\source\repos\tesks2\tesks2\bin\Debug\netcoreapp3.1\tesks2.deps.json
+C:\Users\kamil\source\repos\tesks2\tesks2\bin\Debug\netcoreapp3.1\tesks2.runtimeconfig.json
+C:\Users\kamil\source\repos\tesks2\tesks2\bin\Debug\netcoreapp3.1\tesks2.runtimeconfig.dev.json
+C:\Users\kamil\source\repos\tesks2\tesks2\bin\Debug\netcoreapp3.1\tesks2.dll
+C:\Users\kamil\source\repos\tesks2\tesks2\bin\Debug\netcoreapp3.1\tesks2.pdb
+C:\Users\kamil\source\repos\tesks2\tesks2\obj\Debug\netcoreapp3.1\tesks2.csproj.AssemblyReference.cache
+C:\Users\kamil\source\repos\tesks2\tesks2\obj\Debug\netcoreapp3.1\tesks2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kamil\source\repos\tesks2\tesks2\obj\Debug\netcoreapp3.1\tesks2.AssemblyInfoInputs.cache
+C:\Users\kamil\source\repos\tesks2\tesks2\obj\Debug\netcoreapp3.1\tesks2.AssemblyInfo.cs
+C:\Users\kamil\source\repos\tesks2\tesks2\obj\Debug\netcoreapp3.1\tesks2.csproj.CoreCompileInputs.cache
+C:\Users\kamil\source\repos\tesks2\tesks2\obj\Debug\netcoreapp3.1\tesks2.dll
+C:\Users\kamil\source\repos\tesks2\tesks2\obj\Debug\netcoreapp3.1\tesks2.pdb
+C:\Users\kamil\source\repos\tesks2\tesks2\obj\Debug\netcoreapp3.1\tesks2.genruntimeconfig.cache
